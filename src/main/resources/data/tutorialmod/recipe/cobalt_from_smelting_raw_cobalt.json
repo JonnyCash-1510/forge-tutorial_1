@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 120,
+  "experience": 1,
+  "group": "cobalt",
+  "ingredient": {
+    "item": "tutorialmod:raw_cobalt"
+  },
+  "result": {
+    "id": "tutorialmod:cobalt"
+  }
+}

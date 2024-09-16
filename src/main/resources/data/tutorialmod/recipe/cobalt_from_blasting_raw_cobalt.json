@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 60,
+  "experience": 1,
+  "group": "cobalt",
+  "ingredient": {
+    "item": "tutorialmod:raw_cobalt"
+  },
+  "result": {
+    "id": "tutorialmod:cobalt"
+  }
+}

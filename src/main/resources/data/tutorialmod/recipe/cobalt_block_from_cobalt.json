@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:cobalt"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:cobalt_block"
+  }
+}
